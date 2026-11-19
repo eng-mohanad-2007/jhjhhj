@@ -1,0 +1,82 @@
+html, body, h1, ul,p {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    
+}
+body {
+    max-width: 800px;
+    min-width: 300px;
+}
+#container {
+    background-color: rgb(27, 6, 34);
+    border: 5px solid rgb(225, 225, 50);
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 3%;
+}
+
+h1 {
+    color: rgb(9, 109, 192);
+    width: 100px;
+   margin: 10px;
+   margin-left: 30%;
+   margin-right: 30%;
+   padding:10px;
+    padding-left: 5%;
+    padding-right: 5%;
+    border: 2px solid #e1e13268;
+   
+    
+
+    
+    
+}
+img {
+    width: 150px;
+   margin-left: 30%;
+   margin-right: 30%;
+}
+p {
+    color: rgb(250, 250, 250);
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+   
+
+}
+hr {
+    border-color: rgb(40, 125, 230);
+    border-width: 2px;
+    border-style: solid;
+}
+ul {
+    list-style: none;
+    font-style: italic;
+    font-weight: 500;
+   padding-right: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+li {
+    color: aliceblue;
+    font-size: 20px;
+}
+h2 {
+    color: aliceblue;
+}
+#p2 {
+    color: rgb(255, 255, 255);
+}
+span {
+    font-weight: bold;
+    color: rgb(9, 109, 192);
+}
+h3 {
+    color: aliceblue;
+}
